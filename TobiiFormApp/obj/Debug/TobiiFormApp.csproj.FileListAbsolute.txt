@@ -1,0 +1,16 @@
+C:\Users\bleec\source\repos\TobiiFormApp\TobiiFormApp\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\bleec\source\repos\TobiiFormApp\TobiiFormApp\bin\Debug\TobiiFormApp.exe.config
+C:\Users\bleec\source\repos\TobiiFormApp\TobiiFormApp\bin\Debug\TobiiFormApp.exe
+C:\Users\bleec\source\repos\TobiiFormApp\TobiiFormApp\bin\Debug\TobiiFormApp.pdb
+C:\Users\bleec\source\repos\TobiiFormApp\TobiiFormApp\bin\Debug\Tobii.Interaction.Model.dll
+C:\Users\bleec\source\repos\TobiiFormApp\TobiiFormApp\bin\Debug\Tobii.Interaction.Net.dll
+C:\Users\bleec\source\repos\TobiiFormApp\TobiiFormApp\obj\Debug\TobiiFormApp.csprojResolveAssemblyReference.cache
+C:\Users\bleec\source\repos\TobiiFormApp\TobiiFormApp\obj\Debug\TobiiFormApp.Properties.Resources.resources
+C:\Users\bleec\source\repos\TobiiFormApp\TobiiFormApp\obj\Debug\TobiiFormApp.csproj.GenerateResource.Cache
+C:\Users\bleec\source\repos\TobiiFormApp\TobiiFormApp\obj\Debug\TobiiFormApp.csproj.CoreCompileInputs.cache
+C:\Users\bleec\source\repos\TobiiFormApp\TobiiFormApp\obj\Debug\TobiiFormApp.exe
+C:\Users\bleec\source\repos\TobiiFormApp\TobiiFormApp\obj\Debug\TobiiFormApp.pdb
+C:\Users\bleec\source\repos\TobiiFormApp\TobiiFormApp\obj\Debug\TobiiFormApp.Form1.resources
+C:\Users\bleec\source\repos\TobiiFormApp\TobiiFormApp\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\bleec\source\repos\TobiiFormApp\TobiiFormApp\bin\Debug\WindowsInput.dll
+C:\Users\bleec\source\repos\TobiiFormApp\TobiiFormApp\bin\Debug\WindowsInput.xml
