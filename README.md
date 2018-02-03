@@ -84,7 +84,7 @@ gazePointDataStream.GazePoint((x, y, ts) => {
 });
 ```
 
-Another option on how to implement the same functionality is my using the 'Next' event on the gaze point data stream instance
+Another option on how to implement the same functionality is by using the 'Next' event on the gaze point data stream instance
 ```
 GazePointDataStream gazePointDataStream = host.Streams.CreateGazePointDataStream();
 gazePointDataStream.Next += OnGazePointData;
