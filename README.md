@@ -36,7 +36,7 @@ To open or run this application locally, first clone/download/fork this reposito
 
 [Forking a repository](https://help.github.com/articles/fork-a-repo/)
 
-Run the application from ./TobiiEyeXGrid/TobiiEyexGridApplication.cs, the main class.
+Run the application from ./TobiiFormApp/Program.cs, the main class.
 
 ## Using Tobii SDK in your own projects
 If you start a project from scratch, you will need to add the Tobii Core SDK into your project first. Here is a method to reference the SDK using NuGet Package Manager. The installation guides from Tobii's development website are outdated, so following this guide is recommended.
