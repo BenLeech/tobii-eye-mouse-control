@@ -8,9 +8,10 @@ Global mouse control with Tobii EyeX/4c, with heavy data filters.
 4. [Using Tobii SDK in your own projects](#using-tobii-sdk-in-your-own-projects)
 5. [Creating your own data streams from the Tobii SDK](#creating-your-own-data-streams-from-the-tobii-sdk)
 6. [Smoothing Algorithm](#smoothing-algorithm)
-7. [Known Issues](#known-issues)
-8. [Operating System Support and Language Bindings](#operating-system-support-and-language-bindings)
-9. [Tobii License Information](#tobii-license-information)
+7. [Libraries used in this Application](#libraries-used-in-this-application)
+8. [Known Issues](#known-issues)
+9. [Operating System Support and Language Bindings](#operating-system-support-and-language-bindings)
+10. [Tobii License Information](#tobii-license-information)
 
 ## Documentation and References
 [Tobii Handbook](https://tobii.github.io/CoreSDK/articles/intro.html) (Helpful tutorials, slightly outdated)
@@ -122,6 +123,7 @@ It can be found here:
 http://hci.stanford.edu/cstr/reports/2007-03.pdf
 
 ## Libraries used in this Application
+[Global Mouse Key Hook](https://github.com/gmamaladze/globalmousekeyhook)
 
 ## Known Issues
 ##### Offset gaze coordinates and window scale
